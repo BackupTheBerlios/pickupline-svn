@@ -1,0 +1,9 @@
+# This is the history file, the point is to detail the creation of
+# the pickupline program.  The most recent actions should be on the top.
+
+# <date (yyyy.mm.dd)> <name> <action>
+
+2005.06.29  Dean     cleaned interface for defcon version
+2005.06.29  Brandon  wrote resolvegw command
+2005.06.26  Dean     dropline put in alternate thread
+2005.06.26  Dean     History file started
